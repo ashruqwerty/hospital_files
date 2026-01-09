@@ -2,7 +2,7 @@
   "hospital_name": "West Mercy Hospital",
   "last_updated_on": "2025-11-14",
   "version": "3.0.0",
-  "location_name": ["West Mercy Hospital", "West Mercy Surgical Center"],
+  "location_name": ["West Mercy Hospital"],
   "hospital_address": [
     "12 Main Street, Fullerton, CA  92832"
   ],
