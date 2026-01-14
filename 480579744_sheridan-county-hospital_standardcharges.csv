@@ -1,5 +1,5 @@
 hospital_name,last_updated_on,version,hospital_location,hospital_address,license_number|KS,"To the best of its knowledge and belief, the hospital has included all applicable standard charge information in accordance with the requirements of 45 CFR 180.50, and the information encoded is true, accurate, and complete as of the date indicated.",,,,,,,,,,,,,,
-Sheridan County Hospital,7/31/2025,2.0.0,Sheridan County Hospital,"826 18th Street, Suite B, HOXIE, KS, 67740",H-009-001,TRUE,,,,,,,,,,,,,,
+Sheridan County Hospital,7/31/2025,2.0.0,Sheridan County Hospital|Sheridan County Hospital West,"826 18th Street, Suite B, HOXIE, KS, 67740",H-009-001,TRUE,,,,,,,,,,,,,,
 description,code|1,code|1|type,code|2,code|2|type,modifiers,drug_unit_of_measurement,drug_type_of_measurement,setting,standard_charge|gross,standard_charge|discounted_cash,payer_name,plan_name,standard_charge|methodology,standard_charge|negotiated_dollar,standard_charge|negotiated_percentage,standard_charge|negotiated_algorithm,estimated_amount,additional_generic_notes,standard_charge|min,standard_charge|max
 ACUTE SEMI-PRIVATE ROOM CHARGE,120,RC,,,,,,inpatient,1569,1569,Blue Cross Blue Shield of KS,Default,Case Rate,180.2,,Reimbursement methodology  associated with this service is detailed out at: https://portal.kmap-state-ks.us/Documents/Provider/Bulletins/13059%20-%20Hospital%20-%20Inpatient%20DRG.pdf,,,180.2,1490.55
 ACUTE SEMI-PRIVATE ROOM CHARGE,120,RC,,,,,,inpatient,1569,1569,Celtic Insurance,Default,Fee Schedule,,,,999999999,,180.2,1490.55
@@ -27,3 +27,4 @@ CLINIC VISIT DETAILED,99214,HCPCS,510,RC,,,,both,362,362,Celtic Insurance,Defaul
 CLINIC VISIT DETAILED,99214,HCPCS,510,RC,,,,both,362,362,United Healthcare,Default,Percent of Total Billed Charges,343.9,,,,,199.1,343.9
 TELEHEALTH ORIGINATING SITE FACILITY FEE,Q3014,HCPCS,780,RC,,,,both,71,71,Blue Cross Blue Shield of KS,Default,Fee Schedule,52.68,,,,,39.05,67.45
 TELEHEALTH ORIGINATING SITE FACILITY FEE,Q3014,HCPCS,780,RC,,,,both,71,71,Celtic Insurance,Default,Percent of Total Billed Charges,39.05,,,,,39.05,67.45
+
